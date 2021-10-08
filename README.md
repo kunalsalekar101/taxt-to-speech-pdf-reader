@@ -1,1 +1,1 @@
-# taxt-to-speech-pdf-reader
+# text-to-speech-pdf-reader
